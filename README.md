@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Courses  
 - [Responsive Web Design](https://www.freecodecamp.org/certification/ndru/responsive-web-design) (Nov 2022)
 - [Web-Developer](https://www.udemy.com/certificate/UC-edd83a0d-e282-4cc0-af92-36d8336f355b/) (Mar 2023)
